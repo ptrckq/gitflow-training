@@ -1,5 +1,5 @@
 <html>
 	<body>
-		new page info
+		<h1>		new page info</h1>
 	</body>
 </html>
