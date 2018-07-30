@@ -1,8 +1,8 @@
 <html>
 <body>
 
-	<form method="post">
-		<input type="button" onclick="openPage('checkLuck.jsp')">
+	<form method="post" action="checkLuck.jsp">
+		<input type="submit" >
 	</form>
 
 
